@@ -1,0 +1,5 @@
+mae - mean absoulte square
+mse
+rmse
+r2 score 1-ssr/ssm
+adjusted r2 score
