@@ -1,0 +1,13 @@
+TransactionID,Items
+1,"['milk', 'bread', 'eggs', 'butter']"
+2,"['butter', 'cookies', 'ketchup', 'milk']"
+3,"['milk', 'eggs', 'bread', 'butter']"
+4,"['bread', 'butter', 'ketchup', 'eggs']"
+5,"['milk', 'cookies', 'butter', 'ketchup']"
+6,"['bread', 'eggs', 'ketchup', 'milk']"
+7,"['milk', 'butter', 'ketchup', 'eggs']"
+8,"['milk', 'bread', 'butter', 'cookies']"
+9,"['milk', 'butter', 'ketchup', 'cookies']"
+10,"['eggs', 'cookies', 'butter', 'milk']"
+11,"['bread', 'ketchup', 'cookies', 'eggs']"
+12,"['milk', 'eggs', 'cookies', 'butter']"
